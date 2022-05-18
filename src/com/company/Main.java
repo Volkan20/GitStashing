@@ -2,7 +2,7 @@ package com.company;
 
 public class Main {
     public static void main(String[] args) {
-        BasicFeatures car = new BasicFeatures();
+        BasicFeatures Audi = new BasicFeatures();
         
     }
 }
